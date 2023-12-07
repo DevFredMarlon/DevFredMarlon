@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-Eu sou o Fred Marlon, sou Programador Front-End. Atualmente estou desenvolvendo projetos com:
+### Eu sou o Fred Marlon, sou Programador  Front-End.  Atualmente estou desenvolvendo projetos com:
 <br>
 
-<div>
-<a href="https://github.com/DevFredMarlon">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFredMarlon&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFredMarlon&layout=compact&langs_count=16&theme=dracula"/>
-<div/>
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +14,12 @@ Eu sou o Fred Marlon, sou Programador Front-End. Atualmente estou desenvolvendo 
  </div>
 
  ##
+
+ <div>
+<a href="https://github.com/DevFredMarlon">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFredMarlon&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFredMarlon&layout=compact&langs_count=16&theme=dracula"/>
+<div/>
 
  
   
